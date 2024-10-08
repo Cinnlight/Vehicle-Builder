@@ -18,8 +18,8 @@ This CLI Application lets you add vehicles to your collection, and then perform 
 Go to the repository, copy either the HTTPS or SSH key, run `git clone "your-key-here"`. Navigate to the directory and run `npm i` to install dependencies.
 
 ## Usage
-A fun tool that lets you experiment with Inquirer functionality in the command line.
-Watch the video below for a full overview of the application.
+A fun tool that lets you experiment with Inquirer functionality in the command line.  
+Watch the video below for a full overview of the application.  
 https://drive.google.com/file/d/103hmicRuxL-zHjEV3JZCb8kFlIQox7Tf/view
 
 ## License
